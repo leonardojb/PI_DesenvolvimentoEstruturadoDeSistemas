@@ -48,7 +48,7 @@ const DesktopMenu = ({ actualLink }) => {
         <Flex alignItems="center" px="8">
             <CustomMenuItem href="/home" actualLink={actualLink}>ONGS</CustomMenuItem>
             <CustomMenuItem href="/about" actualLink={actualLink}>SOBRE NÓS</CustomMenuItem>
-            <CustomMenuItem href="/contact" actualLink={actualLink}>CONTATO</CustomMenuItem>
+            <CustomMenuItem href="/contato" actualLink={actualLink}>CONTATO</CustomMenuItem>
         </Flex>
     );
 };
@@ -66,7 +66,7 @@ const MobileMenu = ({ actualLink }) => {
             <MenuList>
                 <CustomMenuItem href="/home" actualLink={actualLink}>ONGS</CustomMenuItem>
                 <CustomMenuItem href="/about" actualLink={actualLink}>SOBRE NÓS</CustomMenuItem>
-                <CustomMenuItem href="/contact" actualLink={actualLink}>CONTATO</CustomMenuItem>
+                <CustomMenuItem href="/contato" actualLink={actualLink}>CONTATO</CustomMenuItem>
             </MenuList>
         </Menu>
     );
