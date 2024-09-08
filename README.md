@@ -23,14 +23,14 @@
 
 - Para instalar as dependências do projeto:
 
-  shell
+  ```shell
   npm install
-  
+  ```
 
 - Para rodar a aplicação:
 
-  shell
+  ```shell
   npm run dev
-  
+  ```
 
 - Vá ao navegador e acesse a rota disponiblizada pelo terminal e pronto! O firebase já está hospedado, então não precisa de mais configuração.
