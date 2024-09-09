@@ -9,7 +9,7 @@
 - Leonardo José Bruno > [leonardojb](https://github.com/leonardojb)
 - Raquel Barros Freitas > [rakeu](https://github.com/rakeu)
 
-###[Vídeo do Projeto] (https://www.youtube.com/watch?v=2Ort9yC_XOE)
+### [Vídeo do Projeto](https://www.youtube.com/watch?v=2Ort9yC_XOE)
 
 ## Tecnologias utilizadas - MVP
 
