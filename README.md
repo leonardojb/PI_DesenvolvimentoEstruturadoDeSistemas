@@ -9,6 +9,8 @@
 - Leonardo José Bruno > [leonardojb](https://github.com/leonardojb)
 - Raquel Barros Freitas > [rakeu](https://github.com/rakeu)
 
+###[Vídeo do Projeto] (https://www.youtube.com/watch?v=2Ort9yC_XOE)
+
 ## Tecnologias utilizadas - MVP
 
 - Para o front-end do projeto, a tecnologia escolhida foi a biblioteca Javascript ReactJS . O seu uso é pelo fato dela oferecer recursos na criação de componentes reutilizáveis e estruturar a aplicação de maneira eficiente. Para deixar o desenvolvimento mais eficiente, foi utilizado a ferramenta Vite na criação da estrutura do projeto. É uma poderosa ferramenta que agiliza o processo de desenvolvimento ao fornecer um ambiente de build rápido e eficiente, ideal para projetos ReactJS .
